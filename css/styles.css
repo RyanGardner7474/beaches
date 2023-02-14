@@ -96,14 +96,16 @@ table {
 	width:700px;
 }
 
-th {
-	
-}
-
-
-
 .fnav {
 	padding:3px 0;
 	margin-top: 500px;
 	background-color:#21269099;
 }
+
+
+.copyright {
+    position:absolute;
+}
+
+
+
