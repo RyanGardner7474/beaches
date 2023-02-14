@@ -104,7 +104,15 @@ table {
 
 
 .copyright {
-    color: red;
+	z-index: 999;
+	position: absolute;
+	color:#101626;
+	top: 100%;
+    left: 0;
+    right: 0;
+    width: 75%;
+    height: 0px;
+    margin: 0;
 }
 
 
