@@ -98,8 +98,10 @@ table {
 
 .fnav {
 	padding:3px 0;
-	margin-top: 500px;
+	margin-top: 200px;
 	background-color:#21269099;
+    margin-top: .8%;
+	margin-bottom: .8%;
 }
 
 
